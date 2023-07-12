@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-<!--
-**QiuQiCrypto/QiuQiCrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`求其`，粤语意思为`随便`。代表我们的理念：`无为`。
 
-Here are some ideas to get you started:
+无为来源于中国古代哲学思想，主要体现在道家思想中。
+
+无为强调自然而然、无拘无束的状态，主张遵循自然的规律，不强行干预或执着于人为的努力。它强调放下欲望和功利心，追求自然流动和平衡的状态。
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
